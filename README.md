@@ -103,6 +103,33 @@ The app will open at:
 `http://localhost:8501`
 
 ---
+## 📊 Results
+
+This section presents the key outputs from the project, including visualizations, model evaluation metrics, and the interactive dashboard.
+
+### 🔍 Data Insights
+- **feature Correlation Heatmap**
+![Correlation Heatmap](images/featurecorrelation.png)
+
+- **Missing Values Heatmap**
+![Missing Values Heatmap](images/heatmap.png)
+
+---
+
+### 📈 Model Performance
+- **Credit Risk**
+![credit risk](images/creditrisl.png)
+
+- **Random Forest Confusion Matrix**
+![Random Forest](images/confusion_financial.png)
+
+---
+
+### 🖥️ Interactive Dashboard
+- **Dashboard Home**
+![Dashboard Screenshot](images/output1.png)
+(images/p.png)
+
 
 ## 📌 Future Improvements
 - Batch prediction for multiple applicants via CSV upload.
