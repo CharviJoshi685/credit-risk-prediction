@@ -1,14 +1,14 @@
 # 💳 Financial Risk Prediction & Credit Scoring
 
 ## 📌 Overview
-This project predicts the creditworthiness of loan applicants using **Machine Learning**.  
-It combines data analytics, predictive modeling, and interactive visualization to support risk assessment and decision-making in financial services.
+This project predicts the **creditworthiness** of loan applicants using **Machine Learning**.  
+It combines **data analytics, predictive modeling, and interactive visualization** to support **risk assessment and decision-making** in financial services.
 
 Key features:
-- Data Cleaning & Preprocessing for structured and categorical data.
-- Model Training using Logistic Regression & Random Forest.
-- Evaluation Metrics with confusion matrices, classification reports, and accuracy scores.
-- Interactive Streamlit Dashboard for real-time credit scoring predictions.
+- **Data Cleaning & Preprocessing** for structured and categorical data.
+- **Model Training** using Logistic Regression & Random Forest.
+- **Evaluation Metrics** with confusion matrices, classification reports, and accuracy scores.
+- **Interactive Streamlit Dashboard** for real-time credit scoring predictions.
 
 ---
 
@@ -92,8 +92,7 @@ python scripts/data_exploration_cleaning.py
 ### **Step 2: Train Models**
 ```bash
 python scripts/train_model.py
-```<img width="1280" height="612" alt="heatmap" src="https://github.com/user-attachments/assets/bb99e73e-c332-4724-995b-105d6f5d5b8c" />
-
+```
 
 ### **Step 3: Run Dashboard**
 ```bash
