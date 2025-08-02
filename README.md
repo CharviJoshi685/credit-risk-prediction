@@ -127,8 +127,8 @@ This section presents the key outputs from the project, including visualizations
 
 ### 🖥️ Interactive Dashboard
 - **Dashboard Home**
-![Dashboard Screenshot](images/output1.png)
-(images/output2.png)
+![Dashboard Screenshot](images/output1.png)(images/output2.png)
+
 
 
 ## 📌 Future Improvements
